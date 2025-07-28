@@ -57,12 +57,20 @@ const Container = styled.div`
   .img{
     width: 300px;
     border-radius: 50%;
-
   }
   .p{
     width: 500px;
     text-align: justify;
     text-indent: 20px;
+  }
+  @media (max-width: 786px) {
+    .p {
+      width: 90%;
+    }
+     .img{
+    width: 200px;
+    border-radius: 50%;
+  }
   }
 `;
 
@@ -83,6 +91,11 @@ const Text = styled.p`
     text-indent: 30px;
    strong{
     color: red;
+  }
+   @media (max-width: 786px) {
+    .p {
+      width: 90%;
+    }
   }
 `;
 
