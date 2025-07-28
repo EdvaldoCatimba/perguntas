@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Fique 5 minutos sem falar nada.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 2,
+        "pergunta": "Mande um emoji fofo pra alguém aleatório.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 3,
+        "pergunta": "Tire uma selfie fazendo coração com as mãos.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 4,
+        "pergunta": "Coloque “Sou um(a) romântico(a)” no status por 5 minutos.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 5,
+        "pergunta": "Elogie alguém de casa.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 6,
+        "pergunta": "Mande um “oi sumido(a)” pra alguém que você já gostou",
+        "categoria": "Simples"
+    },
+    {
+        "id": 7,
+        "pergunta": "Cante um pedacinho de uma música romântica.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 8,
+        "pergunta": "Diga \"estou corando agora\" em voz alta.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 9,
+        "pergunta": "Troque seu nome do grupo para \"Fofo(a) Demais\"",
+        "categoria": "Simples"
+    },
+    {
+        "id": 10,
+        "pergunta": "Poste \"quero namorar\" nos stories.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 11,
+        "pergunta": "Dê um abraço apertado em quem estiver por perto.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 12,
+        "pergunta": "Diga \"eu sou um(a) ciumento(a) assumido(a)\".",
+        "categoria": "Simples"
+    },
+    {
+        "id": 13,
+        "pergunta": "Descreva como seria seu beijo ideal.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 14,
+        "pergunta": "Imite uma cena de novela dramática",
+        "categoria": "Simples"
+    },
+    {
+        "id": 15,
+        "pergunta": "Mande uma figurinha de casal no grupo.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 16,
+        "pergunta": "Finja ciúmes por 30 segundos.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 17,
+        "pergunta": "Conte um mico amoroso.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 18,
+        "pergunta": "Recrie o momento do seu primeiro beijo (sem beijo real).",
+        "categoria": "Simples"
+    },
+    {
+        "id": 19,
+        "pergunta": "Escreva “Estou buscando minha alma gêmea” num post.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 20,
+        "pergunta": "Mande um elogio aleatório pra quem está do seu lado.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 21,
+        "pergunta": "Envie um áudio dizendo “sinto falta de um carinho”.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 22,
+        "pergunta": "Poste uma música de amor nos stories.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 23,
+        "pergunta": "Mande um “bom dia, amor” pra alguém que não espera.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 24,
+        "pergunta": "Escreva um poema (ou tente) e leia em voz alta.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 25,
+        "pergunta": "Diga “me dá um beijo” pra alguém (mesmo de brincadeira).",
+        "categoria": "Simples"
+    },
+    {
+        "id": 26,
+        "pergunta": "Tire uma selfie com cara de apaixonado(a).",
+        "categoria": "Simples"
+    },
+    {
+        "id": 27,
+        "pergunta": "Finja que está se declarando para alguém do grupo.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 28,
+        "pergunta": "Fique 1 minuto fazendo carinho em alguém.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 29,
+        "pergunta": "Crie um apelido carinhoso pra si mesmo e poste.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 30,
+        "pergunta": "Coloque no seu nome do grupo: “Carente e carinhoso(a)”.",
+        "categoria": "Simples"
+    },
+    {
+        "id": 31,
+        "pergunta": "Mande um print do histórico de conversa com seu crush.",
+        "categoria": "Média"
+    },
+    {
+        "id": 32,
+        "pergunta": "Leia em voz alta uma conversa antiga embaraçosa.",
+        "categoria": "Média"
+    },
+    {
+        "id": 33,
+        "pergunta": ". Grave um áudio dizendo: \"Tô com saudades do seu beijo\".",
+        "categoria": "Média"
+    },
+    {
+        "id": 34,
+        "pergunta": "Ponha um status safadinho no WhatsApp por 10 minutos",
+        "categoria": "Média"
+    },
+    {
+        "id": 35,
+        "pergunta": "Faça uma selfie fingindo que tá chorando de saudade.",
+        "categoria": "Média"
+    },
+    {
+        "id": 36,
+        "pergunta": "Mande um emoji provocante pra um(a) ex.",
+        "categoria": "Média"
+    },
+    {
+        "id": 37,
+        "pergunta": "Diga: “fiquei excitado(a) contigo hoje” pra alguém do grupo.",
+        "categoria": "Média"
+    },
+    {
+        "id": 38,
+        "pergunta": "Imite um gemido por 5 segundos.",
+        "categoria": "Média"
+    },
+    {
+        "id": 39,
+        "pergunta": "Faça uma dança sensual de 10 segundos (com roupa).",
+        "categoria": "Média"
+    },
+    {
+        "id": 40,
+        "pergunta": "Envie \"ainda penso em ti às vezes...\" pra alguém do passado.",
+        "categoria": "Média"
+    },
+    {
+        "id": 41,
+        "pergunta": "Poste um print com legenda “Saudades de quando era errado rs”.",
+        "categoria": "Média"
+    },
+    {
+        "id": 42,
+        "pergunta": "Faça um elogio safado sem citar nomes.",
+        "categoria": "Média"
+    },
+    {
+        "id": 43,
+        "pergunta": "Escreva “tô com fogo hoje” no status por 5 minutos.",
+        "categoria": "Média"
+    },
+    {
+        "id": 44,
+        "pergunta": "Diga em voz alta: “Gosto mesmo é de gente safada”.",
+        "categoria": "Média"
+    },
+    {
+        "id": 45,
+        "pergunta": "Mande um áudio sussurrando “me toca...”",
+        "categoria": "Média"
+    },
+    {
+        "id": 46,
+        "pergunta": "Coloque a língua no dente e fale “estou com desejo”.",
+        "categoria": "Média"
+    },
+    {
+        "id": 47,
+        "pergunta": "Recrie uma cena quente de novela ou série.",
+        "categoria": "Média"
+    },
+    {
+        "id": 48,
+        "pergunta": "Poste “me domina, vai” nos stories e apague depois de 1 min.",
+        "categoria": "Média"
+    },
+    {
+        "id": 49,
+        "pergunta": "Diga quem é seu contatinho favorito no grupo.",
+        "categoria": "Média"
+    },
+    {
+        "id": 50,
+        "pergunta": "Mande um “tenho algo pra te mostrar hoje à noite” pra alguém.",
+        "categoria": "Média"
+    },
+    {
+        "id": 51,
+        "pergunta": "Finja que está tendo um ataque de tesão (cena teatral).",
+        "categoria": "Média"
+    },
+    {
+        "id": 52,
+        "pergunta": "Poste uma frase do tipo “quem me pegar, me cuida”",
+        "categoria": "Média"
+    },
+    {
+        "id": 53,
+        "pergunta": ". Mande um “tô com fogo” pra alguém e mostre a resposta.",
+        "categoria": "Média"
+    },
+    {
+        "id": 54,
+        "pergunta": "Poste um vídeo dançando sensualmente de leve.",
+        "categoria": "Média"
+    },
+    {
+        "id": 55,
+        "pergunta": "Diga “me pega ou me deixa” pra alguém do grupo.",
+        "categoria": "Média"
+    },
+    {
+        "id": 56,
+        "pergunta": "Simule uma conversa de motel por áudio.",
+        "categoria": "Média"
+    },
+    {
+        "id": 57,
+        "pergunta": "Mande um print do que tem nos seus favoritos do navegador.",
+        "categoria": "Média"
+    },
+    {
+        "id": 58,
+        "pergunta": "Poste uma indireta bem quente em uma rede social.",
+        "categoria": "Média"
+    },
+    {
+        "id": 59,
+        "pergunta": "Sussurre uma frase ousada no ouvido de alguém.",
+        "categoria": "Média"
+    },
+    {
+        "id": 60,
+        "pergunta": "Fique 1 minuto olhando nos olhos de alguém e depois diga “te quero”.",
+        "categoria": "Média"
+    },
+    {
+        "id": 61,
+        "pergunta": "Grave um áudio dizendo: “Tô pronto(a) pra te dar prazer”",
+        "categoria": "Picante"
+    },
+    {
+        "id": 62,
+        "pergunta": "Mande uma foto sua de cueca ou lingerie (sem mostrar partes íntimas).",
+        "categoria": "Picante"
+    },
+    {
+        "id": 63,
+        "pergunta": "Finja que está gemendo por 10 segundos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 64,
+        "pergunta": "Faça uma confissão íntima no grupo.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 65,
+        "pergunta": "Diga com quem do grupo você faria algo quente.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 66,
+        "pergunta": "Faça uma pose provocante e tire uma selfie (com roupa).",
+        "categoria": "Picante"
+    },
+    {
+        "id": 67,
+        "pergunta": "Recrie uma cena sexy de filme com a voz.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 68,
+        "pergunta": "Escreva uma frase safada no status e deixe por 2 minutos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 69,
+        "pergunta": "Leia um trecho picante de um livro ou fanfic.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 70,
+        "pergunta": "Imite sons de beijo e respiração pesada por 15 segundos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 71,
+        "pergunta": "Poste “se você me visse agora, me agarraria?” e deixe por 5min.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 72,
+        "pergunta": "Diga \"quero você me pegando forte\" para alguém.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 73,
+        "pergunta": "Mande um vídeo curto dançando de forma provocante (com roupa).",
+        "categoria": "Picante"
+    },
+    {
+        "id": 74,
+        "pergunta": "Simule uma conversa de sedução no grupo.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 75,
+        "pergunta": ". Mostre o histórico de pesquisa no navegador.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 76,
+        "pergunta": "Mande uma mensagem safada pro seu crush e mostre o print.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 77,
+        "pergunta": "Diga “me leva pra cama agora” em voz alta.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 78,
+        "pergunta": "Poste “Meu corpo clama por carinho” por 5 minutos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 79,
+        "pergunta": "Faça um strip (de leve, só tirando algo como casaco ou boné).",
+        "categoria": "Picante"
+    },
+    {
+        "id": 80,
+        "pergunta": "Diga “me domina” olhando pra alguém nos olhos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 81,
+        "pergunta": "Faça uma chamada de vídeo com alguém e diga “só vim pra provocar”",
+        "categoria": "Picante"
+    },
+    {
+        "id": 82,
+        "pergunta": "Mande uma música quente para o grupo.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 83,
+        "pergunta": "Finja que está sendo tocado(a) e reaja por 10 segundos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 84,
+        "pergunta": "Poste “Queria estar te dando prazer agora” e apague rápido.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 85,
+        "pergunta": "Faça uma dancinha no estilo TikTok sexy.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 86,
+        "pergunta": "Diga “Hoje eu sou só teu” olhando pra câmera.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 87,
+        "pergunta": "Recrie o gemido de um ator/atriz pornô.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 88,
+        "pergunta": "Faça um elogio extremamente ousado a alguém.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 89,
+        "pergunta": "Fique em silêncio, olhando alguém do grupo e mordendo os lábios.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 90,
+        "pergunta": "Mande uma indireta muito safada pro grupo, como se fosse pra todos.",
+        "categoria": "Picante"
+    },
+    {
+        "id": 91,
+        "pergunta": "Simule um orgasmo (voz e expressão).",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 92,
+        "pergunta": "Poste “estou com tesão e sem vergonha de dizer”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 93,
+        "pergunta": " Ligue pra alguém e diga “sonhei que você me fazia gozar”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 94,
+        "pergunta": "Envie um áudio gemendo baixinho.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 95,
+        "pergunta": "Finja que está se tocando (só atuação, nada explícito).",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 96,
+        "pergunta": "Poste “só vem e me usa” e apague em 1 min.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 97,
+        "pergunta": "Diga “só você sabe me fazer gozar” para alguém específico.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 98,
+        "pergunta": "Faça um strip provocante (com roupa).",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 99,
+        "pergunta": "Mande uma mensagem dizendo: “quero te dar hoje”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 100,
+        "pergunta": "Finja uma cena de sexo com gemidos e palavras sujas.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 101,
+        "pergunta": "Grave um vídeo com cara de tesão e mande.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 102,
+        "pergunta": "Poste uma foto minha com uma legenda quente.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 103,
+        "pergunta": "Faça um relato sexual imaginário comigo.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 104,
+        "pergunta": "Mande um áudio falando como transaria com alguém.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 105,
+        "pergunta": "Mostre o histórico do modo anônimo do navegador.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 106,
+        "pergunta": "Poste “me chama de vadia(o)” por 2 minutos.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 107,
+        "pergunta": "Escreva seu nome + \"safado(a) oficial\" no grupo.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 108,
+        "pergunta": "Envie uma indireta como “Se você me chama, eu vou nua(o)”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 109,
+        "pergunta": "Diga “Te faria gemer tanto hoje” e mande print da resposta.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 110,
+        "pergunta": "Faça um “desafio do prazer” inventado na hora.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 111,
+        "pergunta": "Poste “Topa um rapidinha comigo?” e apague em 1 minuto.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 112,
+        "pergunta": "Envie um áudio sussurrando “vem me comer devagarinho”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 113,
+        "pergunta": "Simule um gemido e diga “só falta você aqui”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 114,
+        "pergunta": "Ligue ou faça chamada de vídeo e diga “só vim te provocar.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 115,
+        "pergunta": "Poste “estou quente, alguém me esfria?” no status.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 116,
+        "pergunta": "Grave um áudio dizendo: “Sinto falta de você dentro de mim”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 117,
+        "pergunta": "Faça um vídeo com olhar 100% de sedução.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 118,
+        "pergunta": "Poste “Hoje vou dormir sem roupa” e apague em 3 min.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 119,
+        "pergunta": "Diga “Vem me usar, sem perguntar nada”.",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 120,
+        "pergunta": "Poste “De quatro é melhor?” (com emoji) e apague logo em seguida.",
+        "categoria": "Extra Picante"
+    }
+]

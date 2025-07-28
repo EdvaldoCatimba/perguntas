@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Qual sua cor favorita?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 2,
+        "pergunta": "Já se apaixonou à primeira vista?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 3,
+        "pergunta": "Gosta mais de abraços ou beijos?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 4,
+        "pergunta": "Maior loucura por amor?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 5,
+        "pergunta": "Qual parte do corpo você mais gosta?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 6,
+        "pergunta": "Já teve um crush secreto?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 7,
+        "pergunta": "Qual sua música romântica favorita?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 8,
+        "pergunta": "Já ficou nervoso(a) na frente de um crush?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 9,
+        "pergunta": "Prefere sair ou ficar em casa com a pessoa amada?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 10,
+        "pergunta": "Já escreveu carta de amor?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 11,
+        "pergunta": "Gosta de receber carinho?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 12,
+        "pergunta": "Já sentiu ciúmes por bobagem?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 13,
+        "pergunta": "Qual o tipo de beijo que mais gosta?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 14,
+        "pergunta": "Já chorou por amor?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 15,
+        "pergunta": "Gosta de dormir de conchinha?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 16,
+        "pergunta": "Você é ciumento(a)?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 17,
+        "pergunta": "Já foi rejeitado(a)?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 18,
+        "pergunta": "Qual foi seu primeiro beijo?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 19,
+        "pergunta": "Você acredita em alma gêmea?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 20,
+        "pergunta": "Já se declarou pra alguém?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 21,
+        "pergunta": "Gosta de apelidos carinhosos?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 22,
+        "pergunta": "Já ficou com medo de se apaixonar?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 23,
+        "pergunta": "Qual o presente mais fofo que já recebeu?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 24,
+        "pergunta": "Já ficou com alguém mais velho(a)?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 25,
+        "pergunta": "Gosta de surpresas?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 26,
+        "pergunta": "Já mandou flores pra alguém?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 27,
+        "pergunta": "Qual é a sua linguagem do amor?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 28,
+        "pergunta": "Acredita em amor eterno?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 29,
+        "pergunta": "Já sofreu por alguém que nem ligava pra você?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 30,
+        "pergunta": "Você já foi apaixonado(a) por um(a) amigo(a)?",
+        "categoria": "Simples"
+    },
+    {
+        "id": 31,
+        "pergunta": "Já ficou com duas pessoas no mesmo dia?",
+        "categoria": "Média"
+    },
+    {
+        "id": 32,
+        "pergunta": "Já te traíram?",
+        "categoria": "Média"
+    },
+    {
+        "id": 33,
+        "pergunta": "Você já traiu?",
+        "categoria": "Média"
+    },
+    {
+        "id": 34,
+        "pergunta": "Já sentiu vontade de sumir por causa de um amor?",
+        "categoria": "Média"
+    },
+    {
+        "id": 35,
+        "pergunta": "Você voltaria com um(a) ex?",
+        "categoria": "Média"
+    },
+    {
+        "id": 36,
+        "pergunta": "Já foi bloqueado(a) por um(a) crush?",
+        "categoria": "Média"
+    },
+    {
+        "id": 37,
+        "pergunta": "Já ficou com alguém só por carência?",
+        "categoria": "Média"
+    },
+    {
+        "id": 38,
+        "pergunta": "Já sentiu tesão por alguém que não deveria?",
+        "categoria": "Média"
+    },
+    {
+        "id": 39,
+        "pergunta": "Já teve um sonho erótico comigo?",
+        "categoria": "Média"
+    },
+    {
+        "id": 40,
+        "pergunta": "Já pensou em me beijar?",
+        "categoria": "Média"
+    },
+    {
+        "id": 41,
+        "pergunta": "Qual foi sua maior desilusão amorosa?",
+        "categoria": "Média"
+    },
+    {
+        "id": 42,
+        "pergunta": "Já beijou alguém só por diversão?",
+        "categoria": "Média"
+    },
+    {
+        "id": 43,
+        "pergunta": "Já pensou em namorar à distância?",
+        "categoria": "Média"
+    },
+    {
+        "id": 44,
+        "pergunta": "Prefere amor tranquilo ou cheio de adrenalina?",
+        "categoria": "Média"
+    },
+    {
+        "id": 45,
+        "pergunta": "Já foi chamado(a) de safado(a)?",
+        "categoria": "Média"
+    },
+    {
+        "id": 46,
+        "pergunta": "Já fez algo íntimo fora de casa?",
+        "categoria": "Média"
+    },
+    {
+        "id": 47,
+        "pergunta": "Qual foi o beijo mais quente da sua vida?",
+        "categoria": "Média"
+    },
+    {
+        "id": 48,
+        "pergunta": "Já se arrependeu de um beijo?",
+        "categoria": "Média"
+    },
+    {
+        "id": 49,
+        "pergunta": "Já foi \"só um lance\"?",
+        "categoria": "Média"
+    },
+    {
+        "id": 50,
+        "pergunta": "Você já ficou com alguém comprometido?",
+        "categoria": "Média"
+    },
+    {
+        "id": 51,
+        "pergunta": "Você já mandou um áudio gemendo?",
+        "categoria": "Média"
+    },
+    {
+        "id": 52,
+        "pergunta": "Já pegou alguém da escola?",
+        "categoria": "Média"
+    },
+    {
+        "id": 53,
+        "pergunta": "Já fez chamada de vídeo safada?",
+        "categoria": "Média"
+    },
+    {
+        "id": 54,
+        "pergunta": "Já sentiu ciúmes do passado da pessoa que gosta?",
+        "categoria": "Média"
+    },
+    {
+        "id": 55,
+        "pergunta": "Já mandou indireta bem direta nos stories?",
+        "categoria": "Média"
+    },
+    {
+        "id": 56,
+        "pergunta": "Tem fetiche?",
+        "categoria": "Média"
+    },
+    {
+        "id": 57,
+        "pergunta": "Gosta de provocar com olhares?",
+        "categoria": "Média"
+    },
+    {
+        "id": 58,
+        "pergunta": "Já ficou com alguém em segredo?",
+        "categoria": "Média"
+    },
+    {
+        "id": 59,
+        "pergunta": "Já tranzou?",
+        "categoria": "Média"
+    },
+    {
+        "id": 60,
+        "pergunta": "Já fez algo escondido dos pais por amor?",
+        "categoria": "Média"
+    },
+    {
+        "id": 61,
+        "pergunta": "Você é mais romântico(a) ou safado(a)?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 62,
+        "pergunta": "Já fez sexo oral?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 63,
+        "pergunta": "Já recebeu sexo oral?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 64,
+        "pergunta": "Qual foi o lugar mais diferente que já transou?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 65,
+        "pergunta": "Já transou na casa de um amigo(a)?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 66,
+        "pergunta": "Você já assistiu pornô com alguém?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 67,
+        "pergunta": "Já teve vontade de transar em público?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 68,
+        "pergunta": "Gosta de dar ordens ou obedecer?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 69,
+        "pergunta": "Já deu ou recebeu nudes?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 70,
+        "pergunta": "Qual é sua posição preferida?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 71,
+        "pergunta": "Manda uma foto de cueca ou lingerie?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 72,
+        "pergunta": "Já usou algum brinquedo na cama?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 73,
+        "pergunta": "Já usou comida ou gelo em momentos íntimos?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 74,
+        "pergunta": "Você já fingiu um orgasmo?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 75,
+        "pergunta": "Já teve uma rapidinha?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 76,
+        "pergunta": "Manda foto dos teus peitos?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 77,
+        "pergunta": "Gosta de dominar ou ser dominado(a)?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 78,
+        "pergunta": "Já fez algo íntimo ouvindo música?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 79,
+        "pergunta": "Já foi pego(a) no flagra?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 80,
+        "pergunta": "Já deu ou levou tapinha durante o sexo?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 81,
+        "pergunta": "Já fez sexo por telefone?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 82,
+        "pergunta": "Já transou de madrugada escondido(a)?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 83,
+        "pergunta": "Você gosta de sexo mais lento ou selvagem?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 84,
+        "pergunta": "Já deu uma escapada no meio de uma festa?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 85,
+        "pergunta": "Já teve relações com alguém do trabalho ou escola?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 86,
+        "pergunta": "Já ficou com alguém só pela beleza?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 87,
+        "pergunta": "Você curte preliminares longas?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 88,
+        "pergunta": "Já ficou nu(a) na frente de alguém sem transar?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 89,
+        "pergunta": "Já gravou algo íntimo?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 90,
+        "pergunta": "Manda foto do(a) pênis/vagina”?",
+        "categoria": "Picante"
+    },
+    {
+        "id": 91,
+        "pergunta": "Já transou com alguém que nem conhecia direito?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 92,
+        "pergunta": "Qual é sua maior fantasia sexual?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 93,
+        "pergunta": "Já pensou em transar com mais de uma pessoa ao mesmo tempo?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 94,
+        "pergunta": "Já beijou alguém do mesmo sexo?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 95,
+        "pergunta": "Já transou com alguém comprometido?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 96,
+        "pergunta": "Manda áudio gemendo?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 97,
+        "pergunta": "Já ficou excitado(a) em público?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 98,
+        "pergunta": "Você faria um vídeo íntimo com alguém?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 99,
+        "pergunta": "Já teve orgasmo só com toque?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 100,
+        "pergunta": "Já foi a um hospedaria?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 101,
+        "pergunta": "Já recebeu oral sentado(a) numa cadeira?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 102,
+        "pergunta": "Gosta de sexo com algemas ou vendas?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 103,
+        "pergunta": "Pensas em tranzar comigo?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 104,
+        "pergunta": "Toparia fazer sexo com vendas e amarras?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 105,
+        "pergunta": "Você gosta de falar durante o sexo?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 106,
+        "pergunta": "Já transou ouvindo gemidos de filme pornô?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 107,
+        "pergunta": "Você já sentiu tesão só com a voz de alguém?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 108,
+        "pergunta": "Já deu ou recebeu massagem íntima?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 109,
+        "pergunta": "Você toparia um ménage?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 110,
+        "pergunta": "Você já teve uma noite de sexo sem dormir?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 111,
+        "pergunta": "Já sentiu prazer com alguém só se esfregando?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 112,
+        "pergunta": "Marca um dia para nos pegarmos de todos os gestos?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 113,
+        "pergunta": "Gostas de se masturbas?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 114,
+        "pergunta": "Já transou com alguém que nem lembra o nome?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 115,
+        "pergunta": "Gosta mais de fazer ou receber oral?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 116,
+        "pergunta": "Já transou em pé?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 117,
+        "pergunta": "Já foi pego(a) gemendo alto?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 118,
+        "pergunta": "Qual foi seu maior tesão inesperado?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 119,
+        "pergunta": "Já transou no espelho?",
+        "categoria": "Extra Picante"
+    },
+    {
+        "id": 120,
+        "pergunta": "Toparia um desafio sexual agora?",
+        "categoria": "Extra Picante"
+    }
+]
