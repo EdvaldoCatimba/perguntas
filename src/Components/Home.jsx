@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-
+import { Routes, Route } from 'react-router-dom';
+import { HashRouter } from "react-router-dom";
 import Welcome from './Templates/Welcome';
 import Tela from './Templates/Tela';
 import Sobre from './Templates/Sobre';
@@ -13,14 +13,14 @@ export default function () {
             <span>Jogo de Perguntas</span>
         </Header>
         <Main>
-            <Router>
+            <HashRouter>
                 <Routes>
                     <Route path="/" element={<Welcome/>} />
                     <Route path="/iniciar" element={<Tela/>} />
                     <Route path="/sobre" element={<Sobre />} />
                     <Route path="/consequencia" element={<Consequencia />} />
                 </Routes>
-            </Router>
+            </HashRouter>
         </Main>
     </HomeStyle>
   )
